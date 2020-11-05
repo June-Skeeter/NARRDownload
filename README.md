@@ -1,3 +1,3 @@
 # NARRDownload
 
-This repo contains a python script to download NARR data
+This repo contains a python script to download and extract NARR data.
